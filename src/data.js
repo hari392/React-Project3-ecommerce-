@@ -1,0 +1,23 @@
+export const products = [
+  { id: 1, name: "alone t-shirt", price: 599, category: "Clothing", image: "/images/t-shirt1.jpg" },
+  { id: 2, name: "polo t-shirt", price: 399, category: "Clothing", image: "/images/tshirt2.jpg" },
+  { id: 3, name: "white print t-shit", price: 399, category: "Clothing", image: "/images/tshirt3.jpg" },
+  { id: 4, name: "Sweat shirt", price: 1999, category: "Clothing", image: "/images/tshirt4.jpg" },
+  { id: 5, name: "Drop Shoulder t-shirt", price: 799, category: "Clothing", image: "/images/tshirt5.jpg" },
+  { id: 6, name: "Round-Toe Lace-Up Sneakers", price: 7000, category: "Footwear", image: "/images/sneaker1.jpg" },
+  { id: 7, name: "Pastel womens Sneakers", price: 3000, category: "Footwear", image: "/images/sneaker2.jpg" },
+  { id: 8, name: "SANNAX Men's Sneakers", price: 8000, category: "Footwear", image: "/images/sneaker3.jpg" },
+  { id: 9, name: "snofiy Luminous LED Sneakers ", price: 4000, category: "Footwear", image: "/images/sneaker4.jpg" },
+  { id: 10, name: "Dexture Air Jordan Sneakers", price: 12000, category: "Footwear", image: "/images/sneaker5.jpg" },
+  { id: 11, name: "Iphone 16 pro", price: 150000, category: "Electronics", image: "/images/iphone.jpg" },
+  { id: 11, name: "Iphone 15 pro max", price: 130000, category: "Electronics", image: "/images/iphone2.jpg" },
+  { id: 11, name: "OnePlus 12", price: 35000, category: "Electronics", image: "/images/oneplus.jpg" },
+  { id: 11, name: "SAMSUNG Galaxy S23 FE ", price: 100000, category: "Electronics", image: "/images/samsung.jpg" },
+  { id: 11, name: "Vivo V27", price: 30000, category: "Electronics", image: "/images/vivo.jpg" },
+  { id: 12, name: "Titan Field Force", price: 15000, category: "Accessories", image: "/images/watch1.jpg" },
+  { id: 12, name: "Carlington Elite", price: 15000, category: "Accessories", image: "/images/watch2.jpg" },
+  { id: 12, name: "OLEVS Mens Gold Watch", price: 15000, category: "Accessories", image: "/images/watch3.jpg" },
+  { id: 12, name: "Black Watch Unisex", price: 15000, category: "Accessories", image: "/images/watch4.jpg" },
+  { id: 12, name: "Apple Watch Ultra 2 GPS", price: 15000, category: "Accessories", image: "/images/watch5.jpg" },
+
+];
